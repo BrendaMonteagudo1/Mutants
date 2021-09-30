@@ -94,7 +94,10 @@ public class DNASample {
         }
 
     }
-
+    
+    public enum DNASampleType {
+        MUTANT, HUMAN
+    }
     
 }
 
